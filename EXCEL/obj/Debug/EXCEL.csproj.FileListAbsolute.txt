@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\bin\Debug\EXCEL.exe.config
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\bin\Debug\EXCEL.exe
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\bin\Debug\EXCEL.pdb
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\obj\Debug\EXCEL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\obj\Debug\EXCEL.Form1.resources
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\obj\Debug\EXCEL.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\obj\Debug\EXCEL.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\obj\Debug\EXCEL.exe
+C:\Users\ASUS\source\repos\EXCEL\EXCEL\obj\Debug\EXCEL.pdb
